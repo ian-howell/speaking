@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Hey everyone. My name is Ian Howell and I am a software engineer working for
-Microsoft. Before I get started with the talk, I would just like to extend a big
-thank you to everyone here who is involved with this, SLU's first annual
-Hackathon; the organizers, the mentors, the judges, the speakers, and of
-course, those of you who are participating.
+Hey everyone. My name is Ian Howell and I'm a software engineer working for
+Microsoft. Before I get started with the talk, I would just like to extend a
+thank you to everyone here who is involved with HackSLU; the organizers, the
+mentors, the judges, the speakers, and of course, those of you who are
+participating.
 
 A growth mindset leads to a desire to learn and therefore a tendency to embrace
 challenges, persist in the face of setbacks, see failure as essential to

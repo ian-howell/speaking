@@ -8,6 +8,22 @@ thank you to everyone here who is involved with HackSLU; the organizers, the
 mentors, the judges, the speakers, and of course, those of you who are
 participating.
 
+Today I'm going to spend some time talking about the Growth Mindset. This talk
+is going to focus specifically on the value of a Growth Mindset with respect to
+breaking into the software development industry, but I can't stress enough how
+valuable it can be in all aspects of your life.
+
+So what am I talking about? What is this "Growth Mindset" thing?
+
+WIP:
+A person with a growth mindset believes that they are a dynamic being, capable
+of improving their skills and adapting to new situations. They recognize that
+effort and practice are essential to learning and that they can develop their
+
+WIP: Don't know if I should talk about the fixed mindset at all?
+This is in contrast to a fixed mindset, in which a person believes that their
+skills and abilities are set in stone and cannot be changed.
+
 A growth mindset leads to a desire to learn and therefore a tendency to embrace
 challenges, persist in the face of setbacks, see failure as essential to
 mastery, learn from criticism, and find lessons and inspiration in the success

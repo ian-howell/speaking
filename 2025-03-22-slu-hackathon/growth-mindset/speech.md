@@ -38,6 +38,16 @@ that quote.
 
 ## A Desire to Learn
 
+    A Growth Mindset leads to a desire to learn.
+
+You guys. I know this is going to sound goofy, like something you might hear in
+a kindergarten classroom. But learning is *fun*. Like, *really* fun. There's a
+certain feeling of satisfaction when you've been working for hours or days to
+understand a topic and it finally. Just. Clicks. And there's *so* many things to
+learn. New technologies, new languages, new paradigms, new frameworks.
+
+WIP: Something about curiosity here. Curiosity is a super important...
+
 ## A Tendency to Embrace Challenges
 
 ## Persistence in the Face of Setbacks

@@ -13,21 +13,28 @@ is going to focus specifically on the value of a Growth Mindset with respect to
 breaking into the software development industry, but I can't stress enough how
 valuable it can be in all aspects of your life.
 
+## A Growth Mindset
+
 So what am I talking about? What is this "Growth Mindset" thing?
 
-WIP:
 A person with a growth mindset believes that they are a dynamic being, capable
 of improving their skills and adapting to new situations. They recognize that
-effort and practice are essential to learning and that they can develop their
+effort and practice are essential to learning.
 
-WIP: Don't know if I should talk about the fixed mindset at all?
-This is in contrast to a fixed mindset, in which a person believes that their
-skills and abilities are set in stone and cannot be changed.
+    A growth mindset leads to a desire to learn and therefore a tendency to
+    embrace challenges, persist in the face of setbacks, see failure as
+    essential to mastery, learn from criticism, and find lessons and inspiration
+    in the success of others".
 
-A growth mindset leads to a desire to learn and therefore a tendency to embrace
-challenges, persist in the face of setbacks, see failure as essential to
-mastery, learn from criticism, and find lessons and inspiration in the success
-of others.
+I stole that. That's a quote. I took it from my company's self-assessment page.
+This is the tool that I use twice a year to evaluate the progress that I have
+made as a software developer at Microsoft. It is the standard that managers at
+Microsoft use when deciding which of their direct reports are ready to be
+promoted. And it is what guides our interviewers when selecting candidates
+for new hires and internships.
+
+Let's break this down and take a deeper look at each of the core components of
+that quote.
 
 ## A Desire to Learn
 

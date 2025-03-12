@@ -46,8 +46,22 @@ each of the qualities, starting with:
 
 ## A Desire to Learn
 
-    A Growth Mindset leads to a desire to learn.
+A Growth Mindset leads to a desire to learn.
 
+About a year and a half ago, my team brought on a new Principal. For those who
+don't know, a Principal is a step above Senior. So you would expect these guys
+to know their stuff, to be experts in software, and to have answers to every
+question. But this guy *didn't* have all the answers. In fact, he made it *very*
+clear that he didn't have all the answers. I would hop on a call with him, and
+it wouldn't matter if it was a one on one, a team meeting with 10+ people, or an
+organization-wide meeting with more than 100 people on the call, he had
+absolutely zero issues with asking a question. And they weren't "hard" questions
+either. They were **fundamental** questions. Questions that every single person
+on the call should know the answer to. Quite frankly, they were questions that I
+would have been embarrassed ask myself. But I started to notice something
+strange. I didn't know the answer to a lot of those questions either. I was
+learning just by being in the same room as him. The team was learning and
+growing alongside him.
 
 ## A Tendency to Embrace Challenges
 

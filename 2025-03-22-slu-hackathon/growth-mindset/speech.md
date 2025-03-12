@@ -27,26 +27,27 @@ effort and practice are essential to learning.
     in the success of others".
 
 I stole that. That's a quote. I took it from my company's self-assessment page.
-This is the tool that I use twice a year to evaluate the progress that I have
-made as a software developer at Microsoft. It is the standard that managers at
-Microsoft use when deciding which of their direct reports are ready to be
-promoted. And it is what guides our interviewers when selecting candidates
+This is what I reference twice a year to evaluate the progress that I have made
+as a software developer at Microsoft. It's also what my managers use, not only
+for themselves, but also as a guideline for how they determine who to promote.
+These qualities are what interviewers are looking for when selecting candidates
 for new hires and internships.
 
-Let's break this down and take a deeper look at each of the core components of
-that quote.
+So it's really important to me. And it's really important to my company. And it
+should be really important to you too. A growth mindset will help you to excel
+in all aspects of your life. It can help you become a better developer, a better
+student, a better friend. But we're not here to talk about our social lives,
+we're here to talk about breaking into the software development industry. But I
+promise that if you start employing this way of thinking, it will change your
+life. It changed mine.
+
+If you missed the quote, that's okay, we're going to break it down and discuss
+each of the qualities, starting with:
 
 ## A Desire to Learn
 
     A Growth Mindset leads to a desire to learn.
 
-You guys. I know this is going to sound goofy, like something you might hear in
-a kindergarten classroom. But learning is *fun*. Like, *really* fun. There's a
-certain feeling of satisfaction when you've been working for hours or days to
-understand a topic and it finally. Just. Clicks. And there's *so* many things to
-learn. New technologies, new languages, new paradigms, new frameworks.
-
-WIP: Something about curiosity here. Curiosity is a super important...
 
 ## A Tendency to Embrace Challenges
 

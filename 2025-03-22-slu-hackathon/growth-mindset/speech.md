@@ -63,6 +63,17 @@ strange. I didn't know the answer to a lot of those questions either. I was
 learning just by being in the same room as him. The team was learning and
 growing alongside him.
 
+And this principal *excelled*. He uncovered problems that had existed on our
+team since it was formed. He completely revamped our developer environments into
+something that is very user-friendly and easy to use. He refactored large chunks
+of some of the most confusing code in our codebase. And ultimately, he wound up
+fulfilling the role of a Principal by leading the way on large complex
+processes, from the design to helping the rest of the team implement it.
+
+In just a few months, this person went from being a question asker to being a
+question answerer. And he was able to do it because he had a *genuine
+curiosity*. He had a "Desire to Learn.
+
 ## A Tendency to Embrace Challenges
 
 ## Persistence in the Face of Setbacks

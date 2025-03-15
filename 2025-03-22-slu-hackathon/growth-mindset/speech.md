@@ -80,6 +80,14 @@ curiosity*. He had a "Desire to Learn.
 
 ## Failing your way to Mastery
 
+Dark Souls - The boss has to beat you *every* time, but you only have to beat
+the boss *once. You mush *FAIL* EVERY TIME before you finally succeed.
+
+Jake the Dog - Dude, sucking at sumthin’ is the first step towards being sorta
+good at something
+
+Errare Humanum est - To err is human
+
 ## Learning from Criticism
 
 ## Finding Lessons and Inspiration in the Success of Others

@@ -8,10 +8,8 @@ thank you to everyone here who is involved with HackSLU; the organizers, the
 mentors, the judges, the speakers, and of course, those of you who are
 participating.
 
-Today I'm going to spend some time talking about the Growth Mindset. This talk
-is going to focus specifically on the value of a Growth Mindset with respect to
-breaking into the software development industry, but I can't stress enough how
-valuable it can be in all aspects of your life.
+Today I'm going to spend some time talking about the Growth Mindset, and how it
+can help you to break into the software development industry.
 
 ## A Growth Mindset
 

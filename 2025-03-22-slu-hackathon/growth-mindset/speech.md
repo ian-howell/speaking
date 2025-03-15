@@ -15,9 +15,9 @@ can help you to break into the software development industry.
 
 So what am I talking about? What is this "Growth Mindset" thing?
 
-A person with a growth mindset believes that they are a dynamic being, capable
-of improving their skills and adapting to new situations. They recognize that
-effort and practice are essential to learning.
+A person with a growth mindset believes that they are able to change themselves,
+that they are a dynamic being. They know that they can improve their skills and
+adapt to new situations, and that learning requires effort and practice.
 
     A growth mindset leads to a desire to learn and therefore a tendency to
     embrace challenges, persist in the face of setbacks, see failure as
@@ -45,6 +45,8 @@ each of the qualities, starting with:
 ## A Desire to Learn
 
 A Growth Mindset leads to a desire to learn.
+
+(intro pause)
 
 About a year and a half ago, my team brought on a new Principal. For those who
 don't know, a Principal is a step above Senior. So you would expect these guys

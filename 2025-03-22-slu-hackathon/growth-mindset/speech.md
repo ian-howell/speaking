@@ -55,24 +55,33 @@ question. But this guy *didn't* have all the answers. In fact, he made it *very*
 clear that he didn't have all the answers. I would hop on a call with him, and
 it wouldn't matter if it was a one on one, a team meeting with 10+ people, or an
 organization-wide meeting with more than 100 people on the call, he had
-absolutely zero issues with asking a question. And they weren't "hard" questions
-either. They were **fundamental** questions. Questions that every single person
-on the call should know the answer to. Quite frankly, they were questions that I
-would have been embarrassed ask myself. But I started to notice something
-strange. I didn't know the answer to a lot of those questions either. I was
-learning just by being in the same room as him. The team was learning and
-growing alongside him.
+questions. And you would think that these would be hard, technical questions.
+But They weren't. They were **fundamental** questions. Questions that every
+single person on the call should know the answer to. Quite frankly, they were
+questions that I would have been embarrassed ask myself.
+
+(brief pause)
+
+But I started to notice something strange. I didn't know the answer to a lot of
+those questions either. I was learning just by being in the same room as him.
+The whole team was learning and growing alongside him.
+
+(brief pause)
 
 And this principal *excelled*. He uncovered problems that had existed on our
-team since it was formed. He completely revamped our developer environments into
-something that is very user-friendly and easy to use. He refactored large chunks
-of some of the most confusing code in our codebase. And ultimately, he wound up
-fulfilling the role of a Principal by leading the way on large complex
-processes, from the design to helping the rest of the team implement it.
+team since it was *formed*. He completely revamped our developer environments
+into something that is much more user-friendly and easy to use. He refactored
+large chunks of some of the most confusing code in our codebase. And ultimately,
+he wound up fulfilling the role of a Principal, leading the way on large complex
+features, from design to helping the rest of the team implement it.
 
-In just a few months, this person went from being a question asker to being a
-question answerer. And he was able to do it because he had a *genuine
-curiosity*. He had a "Desire to Learn.
+In just a few months, this person went from being a "question asker" to being a
+"question answerer". And he was able to do it because he had a *genuine
+curiosity*.
+
+(super brief pause)
+
+He had a "Desire to Learn".
 
 ## A Tendency to Embrace Challenges
 

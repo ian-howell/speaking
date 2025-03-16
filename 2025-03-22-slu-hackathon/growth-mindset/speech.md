@@ -3,10 +3,14 @@
 ## Introduction
 
 Hey everyone. My name is Ian Howell and I'm a software engineer working for
-Microsoft. Before I get started with the talk, I would just like to extend a
-thank you to everyone here who is involved with HackSLU; the organizers, the
-mentors, the judges, the speakers, and of course, those of you who are
-participating.
+Microsoft. I have 8 years of experience in the industry, working on both
+proprietary software as well as open source projects, and recently have been
+working to help build up our technical community in St. Louis, through various
+meetups such as Code & Coffee and StlGo.
+
+Before I get started with the talk, I would just like to extend a thank you to
+everyone here who is involved with HackSLU; the organizers, the mentors, the
+judges, the speakers, and of course, those of you who are participating.
 
 Today I'm going to spend some time talking about the Growth Mindset, and how it
 can help you to break into the software development industry.

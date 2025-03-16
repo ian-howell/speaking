@@ -24,20 +24,24 @@ adapt to new situations, and that learning requires effort and practice.
     essential to mastery, learn from criticism, and find lessons and inspiration
     in the success of others".
 
-I stole that. That's a quote. I took it from my company's self-assessment page.
-This is what I reference twice a year to evaluate the progress that I have made
-as a software developer at Microsoft. It's also what my managers use, not only
-for themselves, but also as a guideline for how they determine who to promote.
-These qualities are what interviewers are looking for when selecting candidates
-for new hires and internships.
+I stole that. That's a quote. It originally came out of a book, but I know it
+best from my company's self-assessment page. This is what I reference twice a
+year to evaluate myself as an employee at Microsoft. It's what I use to judge
+the progress that I have made as a software developer. It's also what my
+managers use, not only for themselves, but also as a guideline for how they
+determine which of their direct reports are exceeding expectations, who they are
+going to promote, and who's going to be getting a really big bonus. These are
+also the qualities that interviewers are looking for when deciding who to bring
+on as a new hire or intern.
 
-So it's really important to me. And it's really important to my company. And it
-should be really important to you too. A growth mindset will help you to excel
-in all aspects of your life. It can help you become a better developer, a better
-student, a better friend. But we're not here to talk about our social lives,
-we're here to talk about breaking into the software development industry. But I
-promise that if you start employing this way of thinking, it will change your
-life. It changed mine.
+So it's really important to me. And it's really important to my company. And
+honestly, it's probably pretty important to all of the companies that you want
+to work for. So it should be really important to you too. A growth mindset will
+help you to excel in all aspects of your life. It can help you become a better
+developer, a better student, a better friend. Now, we're going to talk about
+using it to break into the software development industry. But I promise that if
+you start employing this way of thinking, it will change your life. It changed
+mine.
 
 If you missed the quote, that's okay, we're going to break it down and discuss
 each of the qualities, starting with:

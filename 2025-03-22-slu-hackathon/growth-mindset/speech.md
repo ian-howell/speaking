@@ -120,17 +120,19 @@ involves running from the start point to the boss, at which point you will
 likely take a beating, fail, and having to start all over. And you will fail. A
 lot. Perhaps for hours, although hopefully fewer than 10,000 :D.
 
-But here's the thing about Dark Souls. The first time you enter that arena,
-you're probably gonna get squashed flat in a handful of seconds. But in time,
-you'll begin to learn the patterns and timings. You'll find that you're able to
-hang in there just a bit longer. And with some effort, it will being to feel
-less and less like a beat-down, and more like a dance. The motions will ingrain
-themselves into your muscle memory, and eventually, you'll emerge triumphantly,
-able to progress to the next level.
+Dark Souls is honestly a really good example of failing your way to mastery. The
+first time you enter a boss arena, you're probably gonna get squashed flat in a
+matter of seconds. But in time, you'll begin to learn the patterns and timings.
+You'll find that you're able to hang in there just a bit longer on each attempt,
+and whittle down the health bar just a tiny bit more. And with some effort, it
+will being to feel less and less like a beat-down, and more like a dance. The
+motions will ingrain themselves into your muscle memory. You'll start playing on
+autopilot, and eventually, you'll emerge victoriously, able to progress to the
+next level.
 
 Obviously, this idea can be applied to any skill. You can apply it to
-programming. You can apply it to public speaking, kinda like I'm doing right
-now.
+programming. You can apply it to interviewing. You can apply it to public
+speaking, kinda like I'm doing right now.
 
 And here's the thing. If you're going to fail, you might as well do it in a safe
 environment where you are able to learn from your mistakes. It's part of the

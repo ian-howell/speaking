@@ -50,6 +50,8 @@ mine.
 If you missed the quote, that's okay, we're going to break it down and discuss
 each of the qualities, starting with:
 
+(runtime: 4 min)
+
 ## A Desire to Learn
 
 A Growth Mindset leads to a desire to learn.

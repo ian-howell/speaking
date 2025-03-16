@@ -93,13 +93,30 @@ He had a "Desire to Learn".
 
 ## Failing your way to Mastery
 
-Dark Souls - The boss has to beat you *every* time, but you only have to beat
-the boss *once. You mush *FAIL* EVERY TIME before you finally succeed.
+An individual with a growth mindset sees that "Failure is Essential to Mastery".
 
-Jake the Dog - Dude, sucking at sumthin’ is the first step towards being sorta
-good at something
+(intro pause)
 
-Errare Humanum est - To err is human
+Has anyone here ever heard of the "10,000 Hour Rule"?
+
+The "10,000 Hour Rule" is a theory that it takes 10,000 hours of practice to
+become an expert in a given skill.
+
+(somewhat pregnant pause)
+
+Ok, has anyone here ever played Dark Souls?
+
+Dark Souls is a video game that is notorious for being *hard*. The gameplay loop
+involves running from the start point to the boss, at which point you will
+likely take a beating, fail, and having to start all over. And you will fail. A
+lot. Perhaps for hours, although hopefully fewer than 10,000 :D.
+
+But here's the thing about Dark Souls. The boss has to beat you *every* time.
+But you only have to beat the boss *once*. Eventually, you'll learn the boss's
+patterns and timings. And you'll emerge triumphantly, able to progress to the
+next level.
+
+Obviously, this idea can be applied to any skill.
 
 ## Learning from Criticism
 

@@ -63,18 +63,22 @@ don't know, a Principal is a step above Senior. So you would expect these guys
 to know their stuff, to be experts in software, and to have answers to every
 question. But this guy *didn't* have all the answers. In fact, he made it *very*
 clear that he didn't have all the answers. I would hop on a call with him, and
-it wouldn't matter if it was a one on one, a team meeting with 10+ people, or an
-organization-wide meeting with more than 100 people on the call, he had
-questions. And you would think that these would be hard, technical questions.
-But They weren't. They were **fundamental** questions. Questions that every
-single person on the call should know the answer to. Quite frankly, they were
-questions that I would have been embarrassed ask myself.
+it wouldn't matter if it was a one on one, a stand up with 10 or so people, or
+an organization-wide meeting with more than 100 people on the call, this guy had
+questions. And you would expect that these would be hard, technical questions.
+The kinds of questions that a Principal would be expected to know the answer to.
+But They weren't. They were **fundamental** questions, really *basic* questions.
+Questions that every single person on the call should know the answer to. Quite
+frankly, they were questions that I would have been embarrassed ask.
 
 (brief pause)
 
-But I started to notice something strange. I didn't know the answer to a lot of
-those questions either. I was learning just by being in the same room as him.
-The whole team was learning and growing alongside him.
+But I started to notice something strange. Sometimes, he would ask a question,
+and I would immediately get that gut feeling that this was really basic, that he
+should really know this. But then I would notice something really humbling; I
+sometimes didn't know the answer to the question either. I was learning just by
+being in the same room as him. The whole team was learning and growing alongside
+him.
 
 (brief pause)
 

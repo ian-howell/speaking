@@ -99,11 +99,10 @@ He had a "Desire to Learn".
 
 ## A Tendency to Embrace Challenges
 
-## Persistence in the Face of Setbacks
+## Persistence in the Face of Setbacks and Failing your way to Mastery
 
-## Failing your way to Mastery
-
-An individual with a growth mindset sees that "Failure is Essential to Mastery".
+An individual with a growth mindset "Persists in the Face of Setbacks", and
+recognizes that "Failure is Essential to Mastery".
 
 (intro pause)
 
@@ -114,19 +113,35 @@ become an expert in a given skill.
 
 (somewhat pregnant pause)
 
-Ok, has anyone here ever played Dark Souls?
+Okay, has anyone here ever played Dark Souls?
 
 Dark Souls is a video game that is notorious for being *hard*. The gameplay loop
 involves running from the start point to the boss, at which point you will
 likely take a beating, fail, and having to start all over. And you will fail. A
 lot. Perhaps for hours, although hopefully fewer than 10,000 :D.
 
-But here's the thing about Dark Souls. The boss has to beat you *every* time.
-But you only have to beat the boss *once*. Eventually, you'll learn the boss's
-patterns and timings. And you'll emerge triumphantly, able to progress to the
-next level.
+But here's the thing about Dark Souls. The first time you enter that arena,
+you're probably gonna get squashed flat in a handful of seconds. But in time,
+you'll begin to learn the patterns and timings. You'll find that you're able to
+hang in there just a bit longer. And with some effort, it will being to feel
+less and less like a beat-down, and more like a dance. The motions will ingrain
+themselves into your muscle memory, and eventually, you'll emerge triumphantly,
+able to progress to the next level.
 
-Obviously, this idea can be applied to any skill.
+Obviously, this idea can be applied to any skill. You can apply it to
+programming. You can apply it to public speaking, kinda like I'm doing right
+now.
+
+And here's the thing. If you're going to fail, you might as well do it in a safe
+environment where you are able to learn from your mistakes. It's part of the
+reason why community events like HackSLU are so important. It provides you with
+a safe environment where you can take risks, you can experiment, and you can
+fail, knowing that there is a safety net there to catch you.
+
+So don't be afraid to fail. Embrace it. Learn from it. And when you do fail,
+don't let it get you down. Use it as an opportunity to grow and improve. It's
+important to remember that failure is not the end of the world. It's just a step
+on the road to mastery.
 
 ## Learning from Criticism
 

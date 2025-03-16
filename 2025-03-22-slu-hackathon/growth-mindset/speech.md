@@ -99,6 +99,15 @@ He had a "Desire to Learn".
 
 ## A Tendency to Embrace Challenges
 
+You guys. What are we all doing here today?
+
+We're at a hackathon. We are *already* embracing challenges. And I assure you,
+this *is* going to be challenging. Hackathons are hard. You're going to need to
+work with unfamiliar technologies. You're going to need to work with people you
+don't know. You're probably going to be up late tonight, and you're going to be
+exhausted by the end of it. And tomorrow, you may end up needing to present your
+idea, and the progress you made on it.
+
 ## Persistence in the Face of Setbacks and Failing your way to Mastery
 
 An individual with a growth mindset "Persists in the Face of Setbacks", and

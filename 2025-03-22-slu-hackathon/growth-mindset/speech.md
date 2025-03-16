@@ -26,7 +26,7 @@ adapt to new situations, and that learning requires effort and practice.
     A growth mindset leads to a desire to learn and therefore a tendency to
     embrace challenges, persist in the face of setbacks, see failure as
     essential to mastery, learn from criticism, and find lessons and inspiration
-    in the success of others".
+    in the success of others.
 
 I stole that. That's a quote. It originally came out of a book, but I know it
 best from my company's self-assessment page. This is what I reference twice a

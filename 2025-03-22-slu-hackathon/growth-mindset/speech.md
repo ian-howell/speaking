@@ -156,8 +156,6 @@ on the road to mastery.
 
 ## Learning from Criticism
 
-## Finding Lessons and Inspiration in the Success of Others
-
 ## Conclusion
 
 Being good at stuff is important for finding a job. If you want to find a job as

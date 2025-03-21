@@ -187,6 +187,59 @@ on the road to mastery.
 
 ## Learning from Criticism
 
+Criticism can be tough to hear, especially when you've poured your heart into a
+project. But it's important to remember that feedback is a powerful tool for
+growth. In the software industry, receiving constructive criticism is part of
+the journey. Whether it's advice from a mentor, or comments from users, each
+piece of criticism is an opportunity to improve.
+
+One of the most common forms of feedback you'll encounter in the software
+industry is the code review. Code reviews are an essential part of the
+development process. They involve peers examining your code to identify bugs,
+suggest improvements, and ensure that best practices are followed. While it can
+be intimidating to have your work scrutinized, it's important to see code
+reviews as a learning opportunity. Each comment and suggestion is a chance to
+refine your coding skills, learn new techniques, and produce higher-quality
+code. Embrace this process with an open mind, and you'll find yourself growing
+as a developer.
+
+At this hackathon, you'll be presenting your projects to judges. You can think
+of this as a giant code review. Some of their responses might be positive, but
+some of it might be critical. It's natural to feel defensive or discouraged, but
+I hope that you will approach this criticism with an open mind. Instead of
+seeing it as a personal attack, view it as valuable input that can help you
+refine your skills and enhance your project.
+
+Think about it this way: every piece of criticism is a chance to learn something
+new. Maybe a judge points out a flaw in your code that you hadn't noticed. This
+is an opportunity to improve your coding practices. Perhaps they suggest a
+different approach to solving a problem. This is a chance to expand your
+problem-solving toolkit, and change the way that you think about things.
+
+The ability to learn from criticism is essential. It helps you grow as a
+developer and ensures that your work continues to improve. When you receive
+feedback, take a moment to reflect on it. Ask yourself how you can use this
+information to become better. Seek clarification if needed, and don't be afraid
+to ask for specific examples or suggestions.
+
+Remember that the goal of criticism is not to tear you down but to build you up.
+It's meant to help you reach your full potential. By embracing feedback and
+using it to guide your growth, you'll become a more resilient and skilled
+developer.
+
+So, as you present your projects and receive feedback, keep an open mind. Listen
+carefully, reflect on the criticism, and use it as a stepping stone to
+improvement. This mindset will not only help you succeed in this hackathon but
+will also prepare you for a successful career in the software industry. Learning
+from criticism is a vital part of a growth mindset. Embrace it, learn from it,
+and watch yourself grow.
+
+And real quick before I conclude, I want to make a request. I am *not* a public
+speaker; I don't normally do this kind of thing. So I'm asking you for feedback.
+I will be around for most of this hackathon, and I would really love it if you
+came up to me and let me know what you thought of this talk. What parts did you
+like? Which ones did you hate? What could I have done better?
+
 ## Conclusion
 
 Being good at stuff is important for finding a job. If you want to find a job as

@@ -24,9 +24,8 @@ that they are a dynamic being. They know that they can improve their skills and
 adapt to new situations, and that learning requires effort and practice.
 
     A growth mindset leads to a desire to learn and therefore a tendency to
-    embrace challenges, persist in the face of setbacks, see failure as
-    essential to mastery, learn from criticism, and find lessons and inspiration
-    in the success of others.
+    embrace challenges, to persist in the face of setbacks, to see failure as
+    essential to mastery, and to learn from criticism.
 
 I stole that. That's a quote. It originally came out of a book, but I know it
 best from my company's self-assessment page. This is what I reference twice a

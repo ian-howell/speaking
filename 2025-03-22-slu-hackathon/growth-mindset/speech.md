@@ -240,28 +240,20 @@ like? Which ones did you hate? What could I have done better?
 
 ## Conclusion
 
-Being good at stuff is important for finding a job. If you want to find a job as
-a software developer, you'll obviously need to know at least a little bit about
-how to develop software. But being good at stuff is *really* hard. Becoming an
-expert in a given topic takes a lot of time and experience. And when I say "a
-lot of time and experience", I don't mean "4 years of college and an internship
-or two". The goal of university is to provide you with a very broad pool of
-knowledge. It's practically impossible for you, a student, to be a perfect,
-rock-star expert candidate when applying for jobs.
+A growth mindset is a powerful approach to life that can propel you to new
+heights. A strong desire to learn will keep you on the path to achieving your
+goals. Embracing challenges will keep your skills sharp and prepare you for the
+ever-changing landscape of the software industry. Persisting in the face of
+setbacks will keep you motivated, and help you recognize that failure is a part
+of the learning process. And seeking out criticism will refine your abilities
+and supercharge your growth.
 
-But there's good news; you don't have to be. Your potential employers are fully
-aware that you are not an expert. Sure, they'll expect you to have some
-background in software, but generally, when companies hire students, they
-understand that they are hiring someone who will need mentorship and training.
-When a company brings on new hires and interns straight out of university, they
-are not looking for someone who is already an expert, but rather someone who
-demonstrates the ability to learn and grow and *become* an expert.
+Remember, this hackathon is just the beginning. The skills you develop, the
+lessons you learn, and the mindset you cultivate here will serve you well
+throughout your career. Embrace every challenge, and never stop learning.
 
-They want to see that you are eager to learn. They want developers who seek out
-challenges and are willing to take risks. They expect that you will make
-mistakes and occasionally struggle. They already know that you are probably not
-going to get things right the first time; they know that you are going to
-sometimes fail. But they also hope that you will learn from those failures. They
-hope that you will accept feedback and criticism and use it to improve. And
-finally, they want to see that you work well with others, that you are learning
-from the successes and failures of your peers.
+The future of technology is in your hands, and with the right mindset, there's
+no limit to what you can achieve. So, let's get out there, give it your all, and
+make the most of this awesome opportunity.
+
+Thank you, and best of luck with your projects!

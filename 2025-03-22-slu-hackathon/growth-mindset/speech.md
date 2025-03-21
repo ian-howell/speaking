@@ -21,35 +21,34 @@ So what am I talking about? What is this "Growth Mindset" thing?
 
 A person with a growth mindset believes that they are able to change themselves,
 that they are a dynamic being. They know that they can improve their skills and
-adapt to new situations, and that learning requires effort and practice.
+adapt to new situations, but they're also aware that it requires effort and
+practice.
+
+Twice a year, I do a self-assessment at work. At the top of our assessment tool,
+there's this really cool quote:
 
     A growth mindset leads to a desire to learn and therefore a tendency to
     embrace challenges, to persist in the face of setbacks, to see failure as
     essential to mastery, and to learn from criticism.
 
-I stole that. That's a quote. It originally came out of a book, but I know it
-best from my company's self-assessment page. This is what I reference twice a
-year to evaluate myself as an employee at Microsoft. It's what I use to judge
-the progress that I have made as a software developer. It's also what my
-managers use, not only for themselves, but also as a guideline for how they
-determine which of their direct reports are exceeding expectations, who they are
-going to promote, and who's going to be getting a really big bonus. These are
-also the qualities that interviewers are looking for when deciding who to bring
-on as a new hire or intern.
+This is what I reference twice a year to evaluate myself as an employee at
+Microsoft. More importantly, it's what I use to judge the progress that I have
+made as a software developer and as a person in general. And it's not just me.
+My coworkers also use it. My managers use it, not only to assess themselves, but
+also as a guideline for how they determine which of their direct reports are
+exceeding expectations, who they are going to promote, and who's going to be
+getting a really big bonus. These are also the qualities that interviewers are
+looking for when deciding who to bring on as a new hire or intern.
 
 So it's really important to me. And it's really important to my company. And
 honestly, it's probably pretty important to all of the companies that you want
 to work for. So it should be really important to you too. A growth mindset will
 help you to excel in all aspects of your life. It can help you become a better
 developer, a better student, a better friend. Now, we're going to talk about
-using it to break into the software development industry. But I promise that if
-you start employing this way of thinking, it will change your life. It changed
-mine.
+using it to break into the software development industry.
 
 If you missed the quote, that's okay, we're going to break it down and discuss
 each of the qualities, starting with:
-
-(runtime: 4 min)
 
 ## A Desire to Learn
 

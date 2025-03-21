@@ -99,14 +99,45 @@ He had a "Desire to Learn".
 
 ## A Tendency to Embrace Challenges
 
-You guys. What are we all doing here today?
+Raise your hand if you've been to a hackathon before. (pause for hands to go up)
 
-We're at a hackathon. We are *already* embracing challenges. And I assure you,
-this *is* going to be challenging. Hackathons are hard. You're going to need to
-work with unfamiliar technologies. You're going to need to work with people you
-don't know. You're probably going to be up late tonight, and you're going to be
-exhausted by the end of it. And tomorrow, you may end up needing to present your
-idea, and the progress you made on it.
+If you've never been to a hackathon, I don't mean to scare you, but this is
+going to be hard. It's going to be a challenge. You're going to have to learn a
+lot of new technologies: new databases, new languages, new libraries,
+frameworks, and APIs. And it's not going to stop at tech. You might be working
+with new people, people who have different ideas than you, different
+backgrounds. This is an all-night event. You're going to be up late tonight,
+banging your head against your code. And tomorrow, the judges are going to come
+around, and you'll have to present your idea, to convince them of its value and
+feasibility. And yea, it's probably going to feel awkward.
+
+But here's the thing: embracing these challenges is what will set you apart.
+Each obstacle you face is an opportunity to learn and grow. Each new language
+and database will be another tool in your toolbox. When you encounter a bug that
+seems impossible to fix, look it as a chance to deepen your understanding. When
+you work with someone whose perspective is different from yours, view it as an
+opportunity to broaden your horizons.
+
+Software is a moving target. In this industry, challenges are the name of the
+game. Whether it's debugging a stubborn piece of code, learning a new
+programming language, or collaborating with a diverse team, each challenge is a
+chance to enhance your skills and expand your knowledge.
+
+Raise your hand if you've ever been in an interview.
+
+The process of landing a job in the software industry can be daunting. You'll
+face technical interviews that test your problem-solving skills, coding
+challenges that push your limits, and behavioral interviews that assess your
+ability to work in a team. Every interview is a challenge, but it's also an
+opportunity to showcase your growth mindset. You need to approach interviews
+with the same enthusiasm and determination you bring to this hackathon. Don't
+forget that interviews are a 2-way street; they provide you an opportunity to
+feel out the company. Even if you don't get the job, every interview is a chance
+to learn and grow and get closer to your goal.
+
+So, as you dive into your projects this weekend, remember that every bug you
+encounter, every roadblock you hit, is an opportunity. Embrace these challenges
+with enthusiasm.
 
 ## Persistence in the Face of Setbacks and Failing your way to Mastery
 

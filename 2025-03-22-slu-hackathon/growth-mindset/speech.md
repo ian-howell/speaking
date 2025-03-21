@@ -214,5 +214,3 @@ sometimes fail. But they also hope that you will learn from those failures. They
 hope that you will accept feedback and criticism and use it to improve. And
 finally, they want to see that you work well with others, that you are learning
 from the successes and failures of your peers.
-
-<!-- Software development is a moving target.  -->

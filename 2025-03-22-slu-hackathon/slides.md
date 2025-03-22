@@ -6,7 +6,9 @@ paging: ""
 
 ---
 
-# Introduction
+# A Growth Mindset
+
+And how it can help you to break into the Software Industry
 
 ---
 

@@ -66,37 +66,27 @@ don't know, a Principal is a step above Senior. So you would expect these guys
 to know their stuff, to be experts in software, and to have answers to every
 question. But this guy *didn't* have all the answers. In fact, he made it *very*
 clear that he didn't have all the answers. I would hop on a call with him, and
-it wouldn't matter if it was a one on one, a stand up with 10 or so people, or
-an organization-wide meeting with more than 100 people on the call, this guy had
-questions. And you would expect that these would be hard, technical questions.
-The kinds of questions that a Principal would be expected to know the answer to.
-But They weren't. They were **fundamental** questions, really *basic* questions.
-Questions that every single person on the call should know the answer to. Quite
-frankly, they were questions that I would have been embarrassed ask.
-
-(brief pause)
-
-But I started to notice something strange. Sometimes, he would ask a question,
-and I would immediately get that gut feeling that this was really basic, that he
-should really know this. But then I would notice something really humbling; I
-sometimes didn't know the answer to the question either. I was learning just by
-being in the same room as him. The whole team was learning and growing alongside
-him.
-
-(brief pause)
+it wouldn't matter if it was a one on one, a small team meeting, or an
+organization-wide meeting with more than 100 people on the call, this guy had
+questions. These questions, regardless of their complexity, were insightful and
+thought-provoking, and often sparked valuable discussions. His willingness to
+ask questions and admit when he didn’t know something created an environment
+where learning and growth were prioritized, and it inspired all of us to be more
+open-minded and feel safe to ask questions.
 
 And this principal *excelled*. He uncovered problems that had existed on our
-team since it was *formed*. He completely revamped our developer environments
-into something that is much more user-friendly and easy to use. He refactored
-large chunks of some of the most confusing code in our codebase. And ultimately,
-he wound up fulfilling the role of a Principal, leading the way on large complex
-features, from design to helping the rest of the team implement it.
+team since it was *formed*. He would ask questions like "Why is developing code
+so difficult?" and "What do we need to do to improve it?" and this lead to us
+completely revamping our developer environments into something that is much more
+user-friendly and easy to use. Or "Why is it so hard to debug our code?" and as
+a result, we refactored large chunks of some of the most confusing code in our
+codebase int something that's much more maintainable. He wound up fulfilling the
+role of a Principal, leading the way on large complex features, from design to
+helping the rest of the team implement it.
 
 In just a few months, this person went from being a "question asker" to being a
 "question answerer". And he was able to do it because he had a *genuine
 curiosity*.
-
-(super brief pause)
 
 He had a "Desire to Learn".
 

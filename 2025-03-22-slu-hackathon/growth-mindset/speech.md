@@ -13,7 +13,9 @@ can help you to break into the software development industry.
 
 Before I get started with the talk, I would just like to extend a thank you to
 everyone here who is involved with HackSLU; the organizers, the mentors, the
-judges, the speakers, and of course, those of you who are participating.
+judges, the speakers, and of course, the competitors, without you guys this
+event wouldn't be happening, and I *really* enjoy seeing these sorts of events
+happening in St. Louis.
 
 ## A Growth Mindset
 

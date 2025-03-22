@@ -155,11 +155,16 @@ Has anyone here ever heard of the "10,000 Hour Rule"?
 The "10,000 Hour Rule" is a theory that it takes 10,000 hours of practice to
 become an expert in a given skill.
 
-(somewhat pregnant pause)
+When I've read about this in books and articles, I frequently see some really
+good examples of this. For example, "How many free throws did Michael Jordan
+make before he became a professional basketball player?" or "How many shots on
+goal did Mia Hamm take before she became one of the greatest soccer players of
+all time?". And these are great examples. But let's be real, we're programmers,
+and us don't know anything about sports.
 
-Okay, has anyone here ever played Dark Souls?
+Does anyone here play video games? Anyone here ever played Dark Souls?
 
-Dark Souls is a video game that is notorious for being *hard*. The gameplay loop
+Dark Souls is a video game that is notorious for being *hard*, The gameplay loop
 involves running from the start point to the boss, at which point you will
 likely take a beating, fail, and having to start all over. And you will fail. A
 lot. Perhaps for hours, although hopefully fewer than 10,000 :D.
@@ -176,7 +181,7 @@ next level.
 
 Obviously, this idea can be applied to any skill. You can apply it to
 programming. You can apply it to interviewing. You can apply it to public
-speaking, kinda like I'm doing right now.
+speaking, wink wink nudge nudge.
 
 And here's the thing. If you're going to fail, you might as well do it in a safe
 environment where you are able to learn from your mistakes. It's part of the

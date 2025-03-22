@@ -92,7 +92,18 @@ He had a "Desire to Learn".
 
 ## A Tendency to Embrace Challenges
 
-Raise your hand if you've been to a hackathon before. (pause for hands to go up)
+Raise your hand if you've ever spoken in front of a large crowd before.
+
+To those of you who raised your hands, I'd like to get to know you.
+-- OR --
+Oh man, I was really hoping that I would see a lot more hands up.
+
+Because I could *really* use some advice. Notice that I didn't raise my hand.
+I've never done this before. This is a challenge for me! But I do want to get
+better at it, because I seriously do want to help grow this community, and I
+make a genuine impact on you guys this weekend.
+
+Raise your hand if you've been to a hackathon before.
 
 If you've never been to a hackathon, I don't mean to scare you, but this is
 going to be hard. It's going to be a challenge. You're going to have to learn a
@@ -104,7 +115,7 @@ banging your head against your code. And tomorrow, the judges are going to come
 around, and you'll have to present your idea, to convince them of its value and
 feasibility. And yea, it's probably going to feel awkward.
 
-But here's the thing: embracing these challenges is what will set you apart.
+But here's the thing: embracing challenges like this is what will set you apart.
 Each obstacle you face is an opportunity to learn and grow. Each new language
 and database will be another tool in your toolbox. When you encounter a bug that
 seems impossible to fix, look it as a chance to deepen your understanding. When

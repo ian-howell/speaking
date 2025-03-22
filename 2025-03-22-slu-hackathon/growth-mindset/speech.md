@@ -39,8 +39,9 @@ have made as a software developer and as a person in general. And it's not just
 me. My coworkers also use it. My managers use it, not only to assess themselves,
 but also as a guideline for how they determine which of their direct reports are
 exceeding expectations, who they are going to promote, and who's going to be
-getting a really big bonus. These are also the qualities that interviewers are
-looking for when deciding who to bring on as a new hire or intern.
+getting a really big bonus. The growth mindset qualities are also what an
+interviewer is looking for when deciding who to bring on as a new hire or
+intern.
 
 So it's really important to me. And it's really important to my company. And
 honestly, it's probably pretty important to all of the companies that you want

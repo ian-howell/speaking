@@ -38,3 +38,5 @@ And how it can help you to break into the Software Industry
 ---
 
 # Conclusion
+
+Contact: `ian.howell0@gmail.com`

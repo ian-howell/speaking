@@ -55,9 +55,11 @@ each of the qualities, starting with:
 
 ## A Desire to Learn
 
-A Growth Mindset leads to a desire to learn.
-
-(intro pause)
+A Growth Mindset leads to a desire to learn. The keyword here is *Desire*.
+Learning is not just about acquiring knowledge; it’s about embracing curiosity
+and pushing the boundaries of what we think is possible. It’s about the
+excitement of discovering something new and the satisfaction of solving a
+complex problem
 
 About a year and a half ago, my team brought on a new Principal. For those who
 don't know, a Principal is a step above Senior. So you would expect these guys

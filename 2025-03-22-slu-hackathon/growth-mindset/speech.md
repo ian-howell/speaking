@@ -34,10 +34,10 @@ there's this really cool quote:
     essential to mastery, and to learn from criticism.
 
 This is what I reference twice a year to evaluate myself as an employee at
-Microsoft. More importantly, it's what I use to judge the progress that I have
-made as a software developer and as a person in general. And it's not just me.
-My coworkers also use it. My managers use it, not only to assess themselves, but
-also as a guideline for how they determine which of their direct reports are
+Microsoft. But more importantly, it's what I use to judge the progress that I
+have made as a software developer and as a person in general. And it's not just
+me. My coworkers also use it. My managers use it, not only to assess themselves,
+but also as a guideline for how they determine which of their direct reports are
 exceeding expectations, who they are going to promote, and who's going to be
 getting a really big bonus. These are also the qualities that interviewers are
 looking for when deciding who to bring on as a new hire or intern.
